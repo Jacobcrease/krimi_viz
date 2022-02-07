@@ -1,0 +1,842 @@
+[
+    {
+        "Straftat": "Betrug",
+        "Jahr": 1993,
+        "erfasste Faelle": 787390
+    },
+    {
+        "Straftat": "Betrug",
+        "Jahr": 1994,
+        "erfasste Faelle": 860745
+    },
+    {
+        "Straftat": "Betrug",
+        "Jahr": 1995,
+        "erfasste Faelle": 895034
+    },
+    {
+        "Straftat": "Betrug",
+        "Jahr": 1996,
+        "erfasste Faelle": 950956
+    },
+    {
+        "Straftat": "Betrug",
+        "Jahr": 1997,
+        "erfasste Faelle": 976116
+    },
+    {
+        "Straftat": "Betrug",
+        "Jahr": 1998,
+        "erfasste Faelle": 1016676
+    },
+    {
+        "Straftat": "Betrug",
+        "Jahr": 1999,
+        "erfasste Faelle": 1029213
+    },
+    {
+        "Straftat": "Betrug",
+        "Jahr": 2000,
+        "erfasste Faelle": 1099245
+    },
+    {
+        "Straftat": "Betrug",
+        "Jahr": 2001,
+        "erfasste Faelle": 1092735
+    },
+    {
+        "Straftat": "Betrug",
+        "Jahr": 2002,
+        "erfasste Faelle": 1082828
+    },
+    {
+        "Straftat": "Betrug",
+        "Jahr": 2003,
+        "erfasste Faelle": 1200225
+    },
+    {
+        "Straftat": "Betrug",
+        "Jahr": 2004,
+        "erfasste Faelle": 1276281
+    },
+    {
+        "Straftat": "Betrug",
+        "Jahr": 2005,
+        "erfasste Faelle": 1283052
+    },
+    {
+        "Straftat": "Betrug",
+        "Jahr": 2006,
+        "erfasste Faelle": 1275493
+    },
+    {
+        "Straftat": "Betrug",
+        "Jahr": 2007,
+        "erfasste Faelle": 1236167
+    },
+    {
+        "Straftat": "Betrug",
+        "Jahr": 2008,
+        "erfasste Faelle": 1191514
+    },
+    {
+        "Straftat": "Betrug",
+        "Jahr": 2009,
+        "erfasste Faelle": 1285864
+    },
+    {
+        "Straftat": "Betrug",
+        "Jahr": 2010,
+        "erfasste Faelle": 1331404
+    },
+    {
+        "Straftat": "Betrug",
+        "Jahr": 2011,
+        "erfasste Faelle": 1265488
+    },
+    {
+        "Straftat": "Betrug",
+        "Jahr": 2012,
+        "erfasste Faelle": 1306183
+    },
+    {
+        "Straftat": "Betrug",
+        "Jahr": 2013,
+        "erfasste Faelle": 1261281
+    },
+    {
+        "Straftat": "Betrug",
+        "Jahr": 2014,
+        "erfasste Faelle": 1288916
+    },
+    {
+        "Straftat": "Betrug",
+        "Jahr": 2015,
+        "erfasste Faelle": 1265071
+    },
+    {
+        "Straftat": "Betrug",
+        "Jahr": 2016,
+        "erfasste Faelle": 1170781
+    },
+    {
+        "Straftat": "Betrug",
+        "Jahr": 2017,
+        "erfasste Faelle": 1186165
+    },
+    {
+        "Straftat": "Betrug",
+        "Jahr": 2018,
+        "erfasste Faelle": 1100527
+    },
+    {
+        "Straftat": "Betrug",
+        "Jahr": 2019,
+        "erfasste Faelle": 1107974
+    },
+    {
+        "Straftat": "Betrug",
+        "Jahr": 2020,
+        "erfasste Faelle": 1064817
+    },
+    {
+        "Straftat": "Diebstahl",
+        "Jahr": 1993,
+        "erfasste Faelle": 4151087
+    },
+    {
+        "Straftat": "Diebstahl",
+        "Jahr": 1994,
+        "erfasste Faelle": 3866336
+    },
+    {
+        "Straftat": "Diebstahl",
+        "Jahr": 1995,
+        "erfasste Faelle": 3848308
+    },
+    {
+        "Straftat": "Diebstahl",
+        "Jahr": 1996,
+        "erfasste Faelle": 3672655
+    },
+    {
+        "Straftat": "Diebstahl",
+        "Jahr": 1997,
+        "erfasste Faelle": 3537610
+    },
+    {
+        "Straftat": "Diebstahl",
+        "Jahr": 1998,
+        "erfasste Faelle": 3323989
+    },
+    {
+        "Straftat": "Diebstahl",
+        "Jahr": 1999,
+        "erfasste Faelle": 3133418
+    },
+    {
+        "Straftat": "Diebstahl",
+        "Jahr": 2000,
+        "erfasste Faelle": 2983269
+    },
+    {
+        "Straftat": "Diebstahl",
+        "Jahr": 2001,
+        "erfasste Faelle": 2971727
+    },
+    {
+        "Straftat": "Diebstahl",
+        "Jahr": 2002,
+        "erfasste Faelle": 3090154
+    },
+    {
+        "Straftat": "Diebstahl",
+        "Jahr": 2003,
+        "erfasste Faelle": 3029390
+    },
+    {
+        "Straftat": "Diebstahl",
+        "Jahr": 2004,
+        "erfasste Faelle": 2961030
+    },
+    {
+        "Straftat": "Diebstahl",
+        "Jahr": 2005,
+        "erfasste Faelle": 2727048
+    },
+    {
+        "Straftat": "Diebstahl",
+        "Jahr": 2006,
+        "erfasste Faelle": 2601902
+    },
+    {
+        "Straftat": "Diebstahl",
+        "Jahr": 2007,
+        "erfasste Faelle": 2561691
+    },
+    {
+        "Straftat": "Diebstahl",
+        "Jahr": 2008,
+        "erfasste Faelle": 2443280
+    },
+    {
+        "Straftat": "Diebstahl",
+        "Jahr": 2009,
+        "erfasste Faelle": 2344646
+    },
+    {
+        "Straftat": "Diebstahl",
+        "Jahr": 2010,
+        "erfasste Faelle": 2301786
+    },
+    {
+        "Straftat": "Diebstahl",
+        "Jahr": 2011,
+        "erfasste Faelle": 2403781
+    },
+    {
+        "Straftat": "Diebstahl",
+        "Jahr": 2012,
+        "erfasste Faelle": 2379725
+    },
+    {
+        "Straftat": "Diebstahl",
+        "Jahr": 2013,
+        "erfasste Faelle": 2382743
+    },
+    {
+        "Straftat": "Diebstahl",
+        "Jahr": 2014,
+        "erfasste Faelle": 2440060
+    },
+    {
+        "Straftat": "Diebstahl",
+        "Jahr": 2015,
+        "erfasste Faelle": 2483694
+    },
+    {
+        "Straftat": "Diebstahl",
+        "Jahr": 2016,
+        "erfasste Faelle": 2373774
+    },
+    {
+        "Straftat": "Diebstahl",
+        "Jahr": 2017,
+        "erfasste Faelle": 2092994
+    },
+    {
+        "Straftat": "Diebstahl",
+        "Jahr": 2018,
+        "erfasste Faelle": 1936315
+    },
+    {
+        "Straftat": "Diebstahl",
+        "Jahr": 2019,
+        "erfasste Faelle": 1822212
+    },
+    {
+        "Straftat": "Diebstahl",
+        "Jahr": 2020,
+        "erfasste Faelle": 1682610
+    },
+    {
+        "Straftat": "Gewaltkriminalität",
+        "Jahr": 1993,
+        "erfasste Faelle": 160680
+    },
+    {
+        "Straftat": "Gewaltkriminalität",
+        "Jahr": 1994,
+        "erfasste Faelle": 156272
+    },
+    {
+        "Straftat": "Gewaltkriminalität",
+        "Jahr": 1995,
+        "erfasste Faelle": 170170
+    },
+    {
+        "Straftat": "Gewaltkriminalität",
+        "Jahr": 1996,
+        "erfasste Faelle": 179455
+    },
+    {
+        "Straftat": "Gewaltkriminalität",
+        "Jahr": 1997,
+        "erfasste Faelle": 186447
+    },
+    {
+        "Straftat": "Gewaltkriminalität",
+        "Jahr": 1998,
+        "erfasste Faelle": 186306
+    },
+    {
+        "Straftat": "Gewaltkriminalität",
+        "Jahr": 1999,
+        "erfasste Faelle": 186655
+    },
+    {
+        "Straftat": "Gewaltkriminalität",
+        "Jahr": 2000,
+        "erfasste Faelle": 187103
+    },
+    {
+        "Straftat": "Gewaltkriminalität",
+        "Jahr": 2001,
+        "erfasste Faelle": 188413
+    },
+    {
+        "Straftat": "Gewaltkriminalität",
+        "Jahr": 2002,
+        "erfasste Faelle": 197492
+    },
+    {
+        "Straftat": "Gewaltkriminalität",
+        "Jahr": 2003,
+        "erfasste Faelle": 204124
+    },
+    {
+        "Straftat": "Gewaltkriminalität",
+        "Jahr": 2004,
+        "erfasste Faelle": 211172
+    },
+    {
+        "Straftat": "Gewaltkriminalität",
+        "Jahr": 2005,
+        "erfasste Faelle": 212832
+    },
+    {
+        "Straftat": "Gewaltkriminalität",
+        "Jahr": 2006,
+        "erfasste Faelle": 215471
+    },
+    {
+        "Straftat": "Gewaltkriminalität",
+        "Jahr": 2007,
+        "erfasste Faelle": 217923
+    },
+    {
+        "Straftat": "Gewaltkriminalität",
+        "Jahr": 2008,
+        "erfasste Faelle": 210885
+    },
+    {
+        "Straftat": "Gewaltkriminalität",
+        "Jahr": 2009,
+        "erfasste Faelle": 208446
+    },
+    {
+        "Straftat": "Gewaltkriminalität",
+        "Jahr": 2010,
+        "erfasste Faelle": 201243
+    },
+    {
+        "Straftat": "Gewaltkriminalität",
+        "Jahr": 2011,
+        "erfasste Faelle": 197030
+    },
+    {
+        "Straftat": "Gewaltkriminalität",
+        "Jahr": 2012,
+        "erfasste Faelle": 195143
+    },
+    {
+        "Straftat": "Gewaltkriminalität",
+        "Jahr": 2013,
+        "erfasste Faelle": 184847
+    },
+    {
+        "Straftat": "Gewaltkriminalität",
+        "Jahr": 2014,
+        "erfasste Faelle": 180955
+    },
+    {
+        "Straftat": "Gewaltkriminalität",
+        "Jahr": 2015,
+        "erfasste Faelle": 181386
+    },
+    {
+        "Straftat": "Gewaltkriminalität",
+        "Jahr": 2016,
+        "erfasste Faelle": 193542
+    },
+    {
+        "Straftat": "Gewaltkriminalität",
+        "Jahr": 2017,
+        "erfasste Faelle": 188946
+    },
+    {
+        "Straftat": "Gewaltkriminalität",
+        "Jahr": 2018,
+        "erfasste Faelle": 185377
+    },
+    {
+        "Straftat": "Gewaltkriminalität",
+        "Jahr": 2019,
+        "erfasste Faelle": 181054
+    },
+    {
+        "Straftat": "Gewaltkriminalität",
+        "Jahr": 2020,
+        "erfasste Faelle": 176672
+    },
+    {
+        "Straftat": "Rauschgiftkriminalität",
+        "Jahr": 1993,
+        "erfasste Faelle": 128669
+    },
+    {
+        "Straftat": "Rauschgiftkriminalität",
+        "Jahr": 1994,
+        "erfasste Faelle": 137382
+    },
+    {
+        "Straftat": "Rauschgiftkriminalität",
+        "Jahr": 1995,
+        "erfasste Faelle": 162854
+    },
+    {
+        "Straftat": "Rauschgiftkriminalität",
+        "Jahr": 1996,
+        "erfasste Faelle": 191520
+    },
+    {
+        "Straftat": "Rauschgiftkriminalität",
+        "Jahr": 1997,
+        "erfasste Faelle": 209008
+    },
+    {
+        "Straftat": "Rauschgiftkriminalität",
+        "Jahr": 1998,
+        "erfasste Faelle": 219968
+    },
+    {
+        "Straftat": "Rauschgiftkriminalität",
+        "Jahr": 1999,
+        "erfasste Faelle": 229554
+    },
+    {
+        "Straftat": "Rauschgiftkriminalität",
+        "Jahr": 2000,
+        "erfasste Faelle": 246917
+    },
+    {
+        "Straftat": "Rauschgiftkriminalität",
+        "Jahr": 2001,
+        "erfasste Faelle": 248976
+    },
+    {
+        "Straftat": "Rauschgiftkriminalität",
+        "Jahr": 2002,
+        "erfasste Faelle": 253776
+    },
+    {
+        "Straftat": "Rauschgiftkriminalität",
+        "Jahr": 2003,
+        "erfasste Faelle": 258143
+    },
+    {
+        "Straftat": "Rauschgiftkriminalität",
+        "Jahr": 2004,
+        "erfasste Faelle": 285914
+    },
+    {
+        "Straftat": "Rauschgiftkriminalität",
+        "Jahr": 2005,
+        "erfasste Faelle": 278950
+    },
+    {
+        "Straftat": "Rauschgiftkriminalität",
+        "Jahr": 2006,
+        "erfasste Faelle": 257253
+    },
+    {
+        "Straftat": "Rauschgiftkriminalität",
+        "Jahr": 2007,
+        "erfasste Faelle": 250895
+    },
+    {
+        "Straftat": "Rauschgiftkriminalität",
+        "Jahr": 2008,
+        "erfasste Faelle": 242649
+    },
+    {
+        "Straftat": "Rauschgiftkriminalität",
+        "Jahr": 2009,
+        "erfasste Faelle": 238321
+    },
+    {
+        "Straftat": "Rauschgiftkriminalität",
+        "Jahr": 2010,
+        "erfasste Faelle": 233563
+    },
+    {
+        "Straftat": "Rauschgiftkriminalität",
+        "Jahr": 2011,
+        "erfasste Faelle": 239491
+    },
+    {
+        "Straftat": "Rauschgiftkriminalität",
+        "Jahr": 2012,
+        "erfasste Faelle": 239302
+    },
+    {
+        "Straftat": "Rauschgiftkriminalität",
+        "Jahr": 2013,
+        "erfasste Faelle": 255616
+    },
+    {
+        "Straftat": "Rauschgiftkriminalität",
+        "Jahr": 2014,
+        "erfasste Faelle": 278923
+    },
+    {
+        "Straftat": "Rauschgiftkriminalität",
+        "Jahr": 2015,
+        "erfasste Faelle": 284472
+    },
+    {
+        "Straftat": "Rauschgiftkriminalität",
+        "Jahr": 2016,
+        "erfasste Faelle": 304428
+    },
+    {
+        "Straftat": "Rauschgiftkriminalität",
+        "Jahr": 2017,
+        "erfasste Faelle": 332312
+    },
+    {
+        "Straftat": "Rauschgiftkriminalität",
+        "Jahr": 2018,
+        "erfasste Faelle": 352320
+    },
+    {
+        "Straftat": "Rauschgiftkriminalität",
+        "Jahr": 2019,
+        "erfasste Faelle": 361345
+    },
+    {
+        "Straftat": "Rauschgiftkriminalität",
+        "Jahr": 2020,
+        "erfasste Faelle": 367609
+    },
+    {
+        "Straftat": "Sachbeschädigung",
+        "Jahr": 1993,
+        "erfasste Faelle": 580470
+    },
+    {
+        "Straftat": "Sachbeschädigung",
+        "Jahr": 1994,
+        "erfasste Faelle": 583566
+    },
+    {
+        "Straftat": "Sachbeschädigung",
+        "Jahr": 1995,
+        "erfasste Faelle": 607909
+    },
+    {
+        "Straftat": "Sachbeschädigung",
+        "Jahr": 1996,
+        "erfasste Faelle": 622598
+    },
+    {
+        "Straftat": "Sachbeschädigung",
+        "Jahr": 1997,
+        "erfasste Faelle": 630007
+    },
+    {
+        "Straftat": "Sachbeschädigung",
+        "Jahr": 1998,
+        "erfasste Faelle": 646907
+    },
+    {
+        "Straftat": "Sachbeschädigung",
+        "Jahr": 1999,
+        "erfasste Faelle": 654172
+    },
+    {
+        "Straftat": "Sachbeschädigung",
+        "Jahr": 2000,
+        "erfasste Faelle": 671368
+    },
+    {
+        "Straftat": "Sachbeschädigung",
+        "Jahr": 2001,
+        "erfasste Faelle": 719602
+    },
+    {
+        "Straftat": "Sachbeschädigung",
+        "Jahr": 2002,
+        "erfasste Faelle": 722048
+    },
+    {
+        "Straftat": "Sachbeschädigung",
+        "Jahr": 2003,
+        "erfasste Faelle": 717914
+    },
+    {
+        "Straftat": "Sachbeschädigung",
+        "Jahr": 2004,
+        "erfasste Faelle": 723087
+    },
+    {
+        "Straftat": "Sachbeschädigung",
+        "Jahr": 2005,
+        "erfasste Faelle": 718405
+    },
+    {
+        "Straftat": "Sachbeschädigung",
+        "Jahr": 2006,
+        "erfasste Faelle": 761117
+    },
+    {
+        "Straftat": "Sachbeschädigung",
+        "Jahr": 2007,
+        "erfasste Faelle": 795799
+    },
+    {
+        "Straftat": "Sachbeschädigung",
+        "Jahr": 2008,
+        "erfasste Faelle": 799179
+    },
+    {
+        "Straftat": "Sachbeschädigung",
+        "Jahr": 2009,
+        "erfasste Faelle": 775547
+    },
+    {
+        "Straftat": "Sachbeschädigung",
+        "Jahr": 2010,
+        "erfasste Faelle": 700801
+    },
+    {
+        "Straftat": "Sachbeschädigung",
+        "Jahr": 2011,
+        "erfasste Faelle": 688294
+    },
+    {
+        "Straftat": "Sachbeschädigung",
+        "Jahr": 2012,
+        "erfasste Faelle": 673704
+    },
+    {
+        "Straftat": "Sachbeschädigung",
+        "Jahr": 2013,
+        "erfasste Faelle": 621699
+    },
+    {
+        "Straftat": "Sachbeschädigung",
+        "Jahr": 2014,
+        "erfasste Faelle": 601112
+    },
+    {
+        "Straftat": "Sachbeschädigung",
+        "Jahr": 2015,
+        "erfasste Faelle": 577017
+    },
+    {
+        "Straftat": "Sachbeschädigung",
+        "Jahr": 2016,
+        "erfasste Faelle": 596367
+    },
+    {
+        "Straftat": "Sachbeschädigung",
+        "Jahr": 2017,
+        "erfasste Faelle": 577010
+    },
+    {
+        "Straftat": "Sachbeschädigung",
+        "Jahr": 2018,
+        "erfasste Faelle": 560977
+    },
+    {
+        "Straftat": "Sachbeschädigung",
+        "Jahr": 2019,
+        "erfasste Faelle": 563062
+    },
+    {
+        "Straftat": "Sachbeschädigung",
+        "Jahr": 2020,
+        "erfasste Faelle": 576444
+    },
+    {
+        "Straftat": "Sonstige",
+        "Jahr": 1993,
+        "erfasste Faelle": 961025
+    },
+    {
+        "Straftat": "Sonstige",
+        "Jahr": 1994,
+        "erfasste Faelle": 973596
+    },
+    {
+        "Straftat": "Sonstige",
+        "Jahr": 1995,
+        "erfasste Faelle": 1026277
+    },
+    {
+        "Straftat": "Sonstige",
+        "Jahr": 1996,
+        "erfasste Faelle": 1059551
+    },
+    {
+        "Straftat": "Sonstige",
+        "Jahr": 1997,
+        "erfasste Faelle": 1081172
+    },
+    {
+        "Straftat": "Sonstige",
+        "Jahr": 1998,
+        "erfasste Faelle": 1103141
+    },
+    {
+        "Straftat": "Sonstige",
+        "Jahr": 1999,
+        "erfasste Faelle": 1103401
+    },
+    {
+        "Straftat": "Sonstige",
+        "Jahr": 2000,
+        "erfasste Faelle": 1136277
+    },
+    {
+        "Straftat": "Sonstige",
+        "Jahr": 2001,
+        "erfasste Faelle": 1197122
+    },
+    {
+        "Straftat": "Sonstige",
+        "Jahr": 2002,
+        "erfasste Faelle": 1193592
+    },
+    {
+        "Straftat": "Sonstige",
+        "Jahr": 2003,
+        "erfasste Faelle": 1196647
+    },
+    {
+        "Straftat": "Sonstige",
+        "Jahr": 2004,
+        "erfasste Faelle": 1212118
+    },
+    {
+        "Straftat": "Sonstige",
+        "Jahr": 2005,
+        "erfasste Faelle": 1207415
+    },
+    {
+        "Straftat": "Sonstige",
+        "Jahr": 2006,
+        "erfasste Faelle": 1261560
+    },
+    {
+        "Straftat": "Sonstige",
+        "Jahr": 2007,
+        "erfasste Faelle": 1300574
+    },
+    {
+        "Straftat": "Sonstige",
+        "Jahr": 2008,
+        "erfasste Faelle": 1301146
+    },
+    {
+        "Straftat": "Sonstige",
+        "Jahr": 2009,
+        "erfasste Faelle": 1287336
+    },
+    {
+        "Straftat": "Sonstige",
+        "Jahr": 2010,
+        "erfasste Faelle": 1214754
+    },
+    {
+        "Straftat": "Sonstige",
+        "Jahr": 2011,
+        "erfasste Faelle": 1203644
+    },
+    {
+        "Straftat": "Sonstige",
+        "Jahr": 2012,
+        "erfasste Faelle": 1199682
+    },
+    {
+        "Straftat": "Sonstige",
+        "Jahr": 2013,
+        "erfasste Faelle": 1154593
+    },
+    {
+        "Straftat": "Sonstige",
+        "Jahr": 2014,
+        "erfasste Faelle": 1127524
+    },
+    {
+        "Straftat": "Sonstige",
+        "Jahr": 2015,
+        "erfasste Faelle": 1095105
+    },
+    {
+        "Straftat": "Sonstige",
+        "Jahr": 2016,
+        "erfasste Faelle": 1143128
+    },
+    {
+        "Straftat": "Sonstige",
+        "Jahr": 2017,
+        "erfasste Faelle": 1096977
+    },
+    {
+        "Straftat": "Sonstige",
+        "Jahr": 2018,
+        "erfasste Faelle": 1102248
+    },
+    {
+        "Straftat": "Sonstige",
+        "Jahr": 2019,
+        "erfasste Faelle": 1107007
+    },
+    {
+        "Straftat": "Sonstige",
+        "Jahr": 2020,
+        "erfasste Faelle": 1150750
+    }
+]

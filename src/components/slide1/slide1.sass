@@ -1,0 +1,32 @@
+@import "../../colors"
+
+.slide1-wrapper
+    width: 95vw
+    height: 100vh
+    display: flex
+    justify-content: space-around
+    align-self: center
+    align-content: center
+    text-align: center
+    transition: all 400ms
+    &.visible
+        opacity: 1
+    &.invisible
+        opacity: 0
+
+.col-align
+    display: flex
+    flex-direction: column
+    align-self: center
+    align-content: center
+    margin: 4px
+
+.choices-wrapper
+    padding-top: 32px
+    display: flex
+    width: 100%
+    flex-wrap: wrap
+    flex-direction: column
+    justify-content: center
+    align-self: center
+    align-content: center
