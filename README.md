@@ -1,6 +1,6 @@
 # Wahrnehmung der Kriminalität in Deutschland
 
-A visualization project which was developed in the context of a university course, The visualization is aimed especially at older citizens.
+This visualization project which was developed in the context of a university course, The visualization is aimed especially at older citizens.
 
 The visualization "Wahrnehmung der Kriminalität in Deutschland (Perception of Crime in Germany)" was created as part of a project of the module "Data Visualization" in the winter semester 2021/22 at Freie Universität Berlin.
 
