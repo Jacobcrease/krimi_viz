@@ -9,12 +9,9 @@ export default class SlideBemerkungen extends React.Component<ISlideBemerkungenP
   public render() {
     return (
       <div className="layout-wrapper">
-        <div></div>
         <div className="bemerkung-wrapper">
           <div className="content-wrapper">
-            <div className="title font-l">
-              Zur Konrad-Adenauer-Stiftung:
-            </div>
+            <div className="title font-l">Zur Konrad-Adenauer-Stiftung:</div>
             <div className="content font-m">
               Es ist erwähnenswert, dass die Umfrageteilnehmer direkt mit dem
               Thema der Kriminalität konfrontiert wurden, wodurch das
