@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Jacobcrease/krimi_viz/static/css/main.c933ee79.css",
+    "main.js": "/Jacobcrease/krimi_viz/static/js/main.a73fd4e1.js",
+    "static/js/787.7388d91d.chunk.js": "/Jacobcrease/krimi_viz/static/js/787.7388d91d.chunk.js",
+    "index.html": "/Jacobcrease/krimi_viz/index.html",
+    "main.c933ee79.css.map": "/Jacobcrease/krimi_viz/static/css/main.c933ee79.css.map",
+    "main.a73fd4e1.js.map": "/Jacobcrease/krimi_viz/static/js/main.a73fd4e1.js.map",
+    "787.7388d91d.chunk.js.map": "/Jacobcrease/krimi_viz/static/js/787.7388d91d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c933ee79.css",
+    "static/js/main.a73fd4e1.js"
+  ]
+}
