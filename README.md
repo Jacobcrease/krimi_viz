@@ -15,6 +15,8 @@ For our visualization this means the following:
 
 So try to think your way into this group beforehand.
 
+![Screencast](./krimi-viz_screencast.mp4)
+
 
 ## Approach:
 ### About finding the target audience and the topic
