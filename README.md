@@ -52,6 +52,7 @@ Some things we would have liked to implement that we have already noticed throug
 * Make visualizations responsive, (currently the design breaks on small devices like smartphones).
 * Conduct an evaluation with multiple participants from the target audience.
 * Implement and try out screen readers
+* add controls for keyboard
 
 ## Build and Start application
 
