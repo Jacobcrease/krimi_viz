@@ -1,8 +1,6 @@
 name: Deploy-Page
 
 on:
-  push:
-    branches: [main]
   release:
     types:
       - released
