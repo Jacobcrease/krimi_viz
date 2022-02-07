@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/krimi_viz/static/css/main.907eef7e.css",
-    "main.js": "/krimi_viz/static/js/main.afe2295f.js",
+    "main.css": "/krimi_viz/static/css/main.5efa1f98.css",
+    "main.js": "/krimi_viz/static/js/main.bc67bec2.js",
     "static/js/787.7388d91d.chunk.js": "/krimi_viz/static/js/787.7388d91d.chunk.js",
     "index.html": "/krimi_viz/index.html",
-    "main.907eef7e.css.map": "/krimi_viz/static/css/main.907eef7e.css.map",
-    "main.afe2295f.js.map": "/krimi_viz/static/js/main.afe2295f.js.map",
+    "main.5efa1f98.css.map": "/krimi_viz/static/css/main.5efa1f98.css.map",
+    "main.bc67bec2.js.map": "/krimi_viz/static/js/main.bc67bec2.js.map",
     "787.7388d91d.chunk.js.map": "/krimi_viz/static/js/787.7388d91d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.907eef7e.css",
-    "static/js/main.afe2295f.js"
+    "static/css/main.5efa1f98.css",
+    "static/js/main.bc67bec2.js"
   ]
 }
