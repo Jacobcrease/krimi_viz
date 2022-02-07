@@ -1,5 +1,4 @@
 import * as React from "react";
-import DemoSmallMultiple from "../demo-small-multiple/demo-small-multiple";
 import SmBetrug from "../small-multiples/sm-betrug";
 import SmDiebstahl from "../small-multiples/sm-diebstahl";
 import SmGewalt from "../small-multiples/sm-gewalt";

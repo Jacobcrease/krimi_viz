@@ -1,8 +1,6 @@
 import * as React from "react";
-import Hammer from "hammerjs";
 import "./one-page.sass";
 import Slide1 from "../slide1/slide1";
-import DetailZeitverlaufFaelle from "../detail-zeitverlauf-faelle/detail-zeitverlauf-faelle";
 import SlideUmfrage from "../slide-umfragen/slide-umfragen";
 import SlideFallentwicklung from "../slide-fallentwicklung/slide-fallentwicklung";
 import SlideFallentwicklungDetail from "../slide-fallentwicklung-detail/slide-fallentwicklung-detail";
@@ -10,7 +8,6 @@ import SlideFallentwicklungDetail2 from "../slide-fallentwicklung-detail-2/slide
 import SlideFazit from "../slide-fazit/slide-fazit";
 import SlideBemerkungen from "../slide-bemerkungen/slide-bemerkungen";
 import SlideImpressum from "../slide-impressum/slide-impressum";
-import DemoSmallMultiple from "../demo-small-multiple/demo-small-multiple";
 
 export interface IOnePageProps {}
 
@@ -48,8 +45,6 @@ export default class OnePage extends React.Component<IOnePageProps> {
 
     this.SLIDER.style.height = `${this.SLIDES.length * 100}%`;
 
-    this.hammer = new Hammer(this.hammerWrapperRef.current!);
-    this.hammer.on("pan", this.onHammerPanEvent.bind(this));
     this.setActiveElement(this.activeIndex);
   }
 
@@ -78,22 +73,6 @@ export default class OnePage extends React.Component<IOnePageProps> {
       this.wheelCounter = 0;
       this.jumpToPage(wheelDistance);
     }, 20);
-  }
-
-  onHammerPanEvent(event: HammerInput) {
-    this.panIsRunning = true;
-
-    const panDistance =
-      ((this.SLIDERSIZE / this.SLIDES.length) * event.deltaY) /
-      this.SLIDER.clientWidth;
-    const panDistanceCalculated =
-      panDistance - (this.SLIDERSIZE / this.SLIDES.length) * this.activeIndex;
-
-    //this.animateSlider(panDistanceCalculated);
-
-    if (event.isFinal) {
-      //this.jumpToPage(panDistance);
-    }
   }
 
   jumpToPage(distance: number) {
