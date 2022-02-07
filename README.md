@@ -17,6 +17,7 @@ So try to think your way into this group beforehand.
 
 ![Screencast](./krimi-viz_screencast.mp4)
 
+[![Screencast](https://img.youtube.com/vi/LnP1riz26gc/0.jpg)](https://youtu.be/LnP1riz26gc)
 
 ## Approach:
 ### About finding the target audience and the topic
