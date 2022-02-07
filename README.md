@@ -77,3 +77,7 @@ https://www.bka.de/DE/AktuelleInformationen/StatistikenLagebilder/PolizeilicheKr
 - PKS 2020 - Straftatenkatalog aktuell: 07.02.2022
 - PKS 2020 - Straftatenkatalog (4-stellig) - Historie bis 2020: 07.02.2022
 - PKS 2020 - Tabellenbeschreibung
+
+## Participants
+* Jakob Knitter (Jakok07@fu-berlin.de)
+* Jonas Schäfer (jonas.schaefer@fu-berlin.de)
