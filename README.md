@@ -1,6 +1,20 @@
-# krimi_viz
+# Wahrnehmung der Kriminalität in Deutschland
 
 A visualization project which was developed in the context of a university course, The visualization is aimed especially at older citizens.
+
+The visualization "Wahrnehmung der Kriminalität in Deutschland (Perception of Crime in Germany)" was created as part of a project of the module "Data Visualization" in the winter semester 2021/22 at Freie Universität Berlin.
+
+It's about perceived insecurity.
+
+Our target group is generally people over 65, as they are predominantly affected by this problem.
+For our visualization this means the following:
+- Large font sizes
+- Few & high contrast colors
+- Large buttons
+- not a high data litracy
+
+So try to think your way into this group beforehand.
+
 
 ## Approach:
 ### About finding the target audience and the topic
