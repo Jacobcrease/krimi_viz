@@ -51,6 +51,7 @@ Some things we would have liked to implement that we have already noticed throug
 * Font sizes, "tuning" for all devices (they are scalable, but we couldn't judge well how readable the font is on small devices).
 * Make visualizations responsive, (currently the design breaks on small devices like smartphones).
 * Conduct an evaluation with multiple participants from the target audience.
+* Implement and try out screen readers
 
 ## Build and Start application
 
