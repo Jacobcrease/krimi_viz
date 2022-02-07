@@ -53,6 +53,7 @@ Some things we would have liked to implement that we have already noticed throug
 * Conduct an evaluation with multiple participants from the target audience.
 * Implement and try out screen readers
 * add controls for keyboard
+* add additional language supports
 
 ## Build and Start application
 
