@@ -9,9 +9,12 @@ export default class SlideBemerkungen extends React.Component<ISlideBemerkungenP
   public render() {
     return (
       <div className="layout-wrapper">
+        <div></div>
         <div className="bemerkung-wrapper">
           <div className="content-wrapper">
-            <div className="title font-l">Zur Konrad-Adenauer-Stiftung:</div>
+            <div className="title font-l">
+              Zur Konrad-Adenauer-Stiftung:
+            </div>
             <div className="content font-m">
               Es ist erwähnenswert, dass die Umfrageteilnehmer direkt mit dem
               Thema der Kriminalität konfrontiert wurden, wodurch das
@@ -37,7 +40,7 @@ export default class SlideBemerkungen extends React.Component<ISlideBemerkungenP
             <div className="content font-m">
               Die deutsche Polizeiliche Kriminalstatistik wird seit 1953
               jährlich vom Bundeskriminalamt veröffentlicht und ist die
-              bekannteste und am häufigste zitierte Kriminalstatistik. Sie
+              bekannteste und am häufigsten zitierte Kriminalstatistik. Sie
               enthält Daten über die bei der Polizei angezeigten Straftaten,
               trifft aber keine Aussage über sonstige Fälle (Dunkelziffer).
               Daher ist die Aussagekraft über die Veränderung der Kriminalität

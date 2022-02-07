@@ -1,18 +1,18 @@
 import * as React from "react";
 import DemoSmallMultiple from "../demo-small-multiple/demo-small-multiple";
-import SmBetrug from "../small-multiples/sm-betrug";
-import SmDiebstahl from "../small-multiples/sm-diebstahl";
-import SmGewalt from "../small-multiples/sm-gewalt";
-import SmRauschgift from "../small-multiples/sm-rauschgift";
-import SmSachbesch from "../small-multiples/sm-sachbesch";
-import SmSonstige from "../small-multiples/sm-sonstige";
-import "./slide-fallentwicklung-detail.sass";
+import SmBetrug2 from "../small-multiples/sm-betrug2";
+import SmDiebstahl2 from "../small-multiples/sm-diebstahl2";
+import SmGewalt2 from "../small-multiples/sm-gewalt2";
+import SmRauschgift2 from "../small-multiples/sm-rauschgift2";
+import SmSachbesch2 from "../small-multiples/sm-sachbesch2";
+import SmSonstige2 from "../small-multiples/sm-sonstige2";
+import "./slide-fallentwicklung-detail-2.sass";
 
 export interface ISlideUmfragenDetailProps {
   onClickNavigation: () => void;
 }
 
-export default class SlideFallentwicklungDetail extends React.Component<ISlideUmfragenDetailProps> {
+export default class SlideFallentwicklungDetail2 extends React.Component<ISlideUmfragenDetailProps> {
   public render() {
     return (
       <div className="slide-fallentwicklung-detail-wrapper">
@@ -21,22 +21,22 @@ export default class SlideFallentwicklungDetail extends React.Component<ISlideUm
           <div className="link-wrapper">
             <div className="visualizing-wrapper">
               <div className="fallentwicklung-detail-wrapper">
-                <SmDiebstahl></SmDiebstahl>
+                <SmDiebstahl2></SmDiebstahl2>
               </div>
               <div className="fallentwicklung-detail-wrapper">
-                <SmBetrug></SmBetrug>
+                <SmBetrug2></SmBetrug2>
               </div>
               <div className="fallentwicklung-detail-wrapper">
-                <SmRauschgift></SmRauschgift>
+                <SmRauschgift2></SmRauschgift2>
               </div>
               <div className="fallentwicklung-detail-wrapper">
-                <SmSachbesch></SmSachbesch>
+                <SmSachbesch2></SmSachbesch2>
               </div>
               <div className="fallentwicklung-detail-wrapper">
-                <SmSonstige></SmSonstige>
+                <SmSonstige2></SmSonstige2>
               </div>
               <div className="fallentwicklung-detail-wrapper">
-                <SmGewalt></SmGewalt>
+                <SmGewalt2></SmGewalt2>
               </div>
             </div>
             <a
@@ -53,22 +53,18 @@ export default class SlideFallentwicklungDetail extends React.Component<ISlideUm
             </a>
           </div>
           <div className="text-wrapper">
-            Jedes Diagramm stellt hier den Verlauf der Fallzahlen einer
-            bestimmten Straftat dar. Dabei wird jeweils der Verlauf von 1993 bis
-            2020 dargestellt.
-            <br></br>
-            Bei den meisten Straftaten ist die Fallzahl tatsächlich etwas
-            angestiegen. Allerdings ist die Anzahl der gemeldeten Diebstähle um
-            fast 60 % gesunken. 1993 machten Diebstähle noch 61 % der gesamten
-            Straftaten aus, 2020 sind es nur noch etwa 32 %. Die Reduktion an
-            gemeldeten Diebstählen ist die Hauptursache für den
-            Kriminalitätsrückgang.
+            Hier werden noch einmal die Straftaten aus der vorherigen
+            Visualisierung miteinander verglichen, allerdings mit Fokus auf die
+            absoluten Zahlen. Das heißt, die Daten sind über die gleiche Achse
+            skaliert. Dadurch wird klar, dass Diebstahlkriminalität den mit
+            Abstand größten Teil der gemeldeten Kriminalität ausmacht. Die
+            Entwicklung ist dennoch stark rückläufig.
             <br></br>
             <br></br>
-            <b>Bitte beachten Sie:</b> Um die einzelnen Entwicklungen besser zu
-            betonen, gibt es Unterschiede zwischen den Skalen der Graphen. Um
-            die Fallzahlen absolut miteinander zu vergleichen, empfehlen wir die
-            folgende Grafik.
+            Anhand der Visualisierung wird deutlich, dass Trends bei Delikten
+            mit geringeren Fallzahlen, wie beispielsweise der
+            Rauschgiftkriminalität, den allgemeinen Kriminalitätsrückgang kaum
+            beeinflussen.
           </div>
         </div>
         <div className="footer">

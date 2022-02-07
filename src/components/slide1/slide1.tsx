@@ -31,12 +31,12 @@ export default class Slide1 extends React.Component<
       ],
     },
     {
-      title: "Die Kriminalität in Deutschland hat in den letzen 5 Jahren..\n\n",
+      title: "Die Kriminalität in Deutschland hat in den letzten 5 Jahren..\n\n",
       choices: [
         "stark zugenommen",
         "etwas zugenommen",
         "ist etwa gleich geblieben",
-        "hat etwas abgenommen",
+        "etwas abgenommen",
         "stark abgenommen",
       ],
     },

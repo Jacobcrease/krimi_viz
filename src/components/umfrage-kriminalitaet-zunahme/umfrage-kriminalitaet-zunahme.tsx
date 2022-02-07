@@ -10,7 +10,7 @@ export default class UmfrageKriminalitaetZunahme extends React.Component<IUmfrag
       "stark<br>zugenommen",
       "etwas<br>zugenommen",
       "ist etwa gleich<br>geblieben",
-      "hat etwas<br>abgenommen",
+      "etwas<br>abgenommen",
       "stark<br>abgenommen",
     ];
     return (
